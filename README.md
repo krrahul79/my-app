@@ -10,3 +10,8 @@ Conatians static assets including index.html
 -css
 -favicon
 -id="root" -our entire app
+
+-src
+In simple form it's the brain of our app.
+This is where we will do all of our work.
+src/index.js is the JavaScript entry point.
