@@ -18,3 +18,17 @@ src/index.js is the JavaScript entry point.
 
 -.gitignore
 Specific which files source control (Git) should ignore
+
+-package.json
+Every Node.js project has package.json and it contains info about our projects, for ecample list of dependencies and scripts
+
+-package-lock.json
+A snapshot of the entire dependency tree
+
+-README
+The markdown file where you can share more info about the project for example build instructions and summary
+
+###First Component
+-starts with capital letter
+-must return JSX(html)
+-always close tag</>
