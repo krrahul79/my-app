@@ -6,10 +6,14 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-const Greeting = () =>{
-    return <h2>Hi! Welcome</h2>;
-}
+const Greeting = () => {
+  return (
+    <h2 id="something" className="classheading">
+      Hi! How are you
+    </h2>
+  );
+};
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<Greeting/>);
+root.render(<Greeting />);
