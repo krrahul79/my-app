@@ -32,3 +32,13 @@ The markdown file where you can share more info about the project for example bu
 -starts with capital letter
 -must return JSX(html)
 -always close tag</>
+
+###ES7 Snippet
+-rafce (arrow function with export)
+-rfce (regular func with export)
+check react snippet in setting to see if you want to import react from react while creating new components
+
+-JSX syntax (return html)
+
+- to make our lives easier
+- calling function under the hood
